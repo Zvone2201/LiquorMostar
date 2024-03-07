@@ -1,14 +1,20 @@
-<x-app-layout>
-
-</x-app-layout>
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
-    
-    <h1>Admin Dashboard</h1>
-</body>
+  <head>
+    <!-- Required meta tags -->
+    @include('admin.css')
+  </head>
+  <body>
+    <div class="container-scroller">
+      <!-- partial:partials/_sidebar.html -->
+      @include('admin.traka')
+      <!-- partial -->
+      @include('admin.header_admin')
+        <!-- partial -->
+        @include('admin.sadrzaj') 
+    <!-- container-scroller -->
+    <!-- plugins:js -->
+    @include('admin.script')
+    <!-- End custom js for this page -->
+  </body>
 </html>

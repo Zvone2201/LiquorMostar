@@ -2,7 +2,7 @@
          <div class="container">
             <div class="heading_container heading_center">
                <h2>
-                  Why Shop With Us
+                  Zašto poslovati s nama?
                </h2>
             </div>
             <div class="row">
@@ -97,10 +97,10 @@
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Fast Delivery
+                           Brza Dostava
                         </h5>
                         <p>
-                           variations of passages of Lorem Ipsum available
+                        Naša usluga brze dostave osigurava da vaši proizvodi stignu na vaša vrata u najkraćem mogućem roku, pružajući vam brzu i pouzdanu uslugu koja štedi vrijeme i osigurava zadovoljstvo naših kupaca.
                         </p>
                      </div>
                   </div>
@@ -212,10 +212,10 @@
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Free Shiping
+                           Besplatna Dostava
                         </h5>
                         <p>
-                           variations of passages of Lorem Ipsum available
+                        Nudimo besplatnu dostavu za sve narudžbe, osiguravajući da vaši proizvodi stignu na vaša vrata u najkraćem mogućem roku. Naša usluga pruža udobnost i pouzdanost, štedeći vaše dragocjeno vrijeme i osiguravajući zadovoljstvo.
                         </p>
                      </div>
                   </div>
@@ -233,10 +233,10 @@
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Best Quality
+                           Najbolja kvaliteta
                         </h5>
                         <p>
-                           variations of passages of Lorem Ipsum available
+                        Ponosno ističemo našu predanost najvišoj kvaliteti proizvoda, pružajući vam samo najbolje kako bismo osigurali vaše potpuno zadovoljstvo i povjerenje u naše usluge. Kvaliteti pridajemo jako na značaju radi nasih kupaca.
                         </p>
                      </div>
                   </div>
