@@ -34,7 +34,7 @@ class HomeController extends Controller
             }
             else
                 {
-                    $proizvodi=Proizvodi::paginate(10);
+                    $proizvodi=Proizvodi::paginate(9);
                     return view('home.userpage',compact('proizvodi'));
                 }
 

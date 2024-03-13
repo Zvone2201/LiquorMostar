@@ -11,7 +11,7 @@
                               <div class="detail-box">
                                  <h1>
                                     <span>
-                                    Rasprodaja 20% 
+                                    Rasprodaja 20%
                                     </span>
                                     <br>
                                     na Jägermeister
