@@ -74,7 +74,7 @@
               <span class="menu-title">Proizvodi</span>
               <i class="menu-arrow"></i>
             </a>
-            <div class="collapse" id="ui-basic">
+            <div >
               <ul class="nav flex-column sub-menu">
                 <li class="nav-item"> <a class="nav-link" href="{{url('/view_proizvodi')}}">Dodaj proizvode</a></li>
                 <li class="nav-item"> <a class="nav-link" href="{{url('/prikazi_proizvodi')}}">Prikaži proizvode</a></li>
